@@ -1,0 +1,6 @@
+{
+  "name": "PyCode Studio",
+  "description": "Modern offline Python compiler, code editor, and interactive IDE for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
